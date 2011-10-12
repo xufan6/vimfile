@@ -16,3 +16,5 @@ set incsearch
 set title
 
 call pathogen#infect() 
+
+let g:user_zen_settings = { 'html' : { 'indentation' : '  ' }, }
