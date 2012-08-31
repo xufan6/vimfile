@@ -1,3 +1,4 @@
+syntax on
 set nocompatible
 filetype plugin indent on
 
